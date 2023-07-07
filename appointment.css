@@ -1,0 +1,30 @@
+body {
+    background-color: #d5bdaf;
+}
+
+form {
+    width: 100%;
+    margin: 20px auto;
+
+}
+
+#info {
+    width: 45%;
+    height: 50px;
+    border: 1px solid black;
+    display: inline-block;
+
+}
+
+#time {
+    width: 45%;
+    height: 50px;
+    border: 1px solid black;
+    display: inline-block;
+
+}
+
+#button {
+    margin-top: 20px;
+
+}

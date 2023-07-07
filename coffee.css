@@ -5,9 +5,11 @@ body {
 
 }
 
+
 nav {
     width: 100%;
     margin: 20px 0;
+    display: inline-block;
 }
 
 nav ul {
@@ -18,7 +20,7 @@ nav ul {
 }
 
 nav ul li {
-    width: 25%;
+    width: 20%;
     float: left;
 
 }
