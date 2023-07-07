@@ -27,6 +27,7 @@ nav ul li a {
     display: block;
     width: 100%;
     padding: 8px 0;
+    color: black;
     text-align: center;
     /* Chrome10+,Safari5.1+ */
     background: -webkit-linear-gradient(top,
